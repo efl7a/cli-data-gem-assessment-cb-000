@@ -1,0 +1,60 @@
+[33mddfc43d[m Code that is not working [31m(Heather Christman, 51 seconds ago)[m
+[33m1acf910[m Merge pull request #25 from marielfrank/marielfrank1502971240 [31m(Gabe Jackson, 4 months ago)[m
+[33mfc41f86[m Add walk-through video as required first step within instructions to head off issues [31m(Mariel Frank, 4 months ago)[m
+[33md4c790b[m update Learn-Verified instructions [31m(Luke Ghenco, 10 months ago)[m
+[33m71c0802[m Merge pull request #22 from learn-co-curriculum/optional-gem [31m(Peter Bell, 1 year, 2 months ago)[m
+[33m3eefe64[m Using Zendesk email for Corinna [31m(Peter Bell, 1 year, 2 months ago)[m
+[33mde3790a[m Make this definitively a scraper app, not possibly an API app - we deal with those later in the curriculum [31m(Peter Bell, 1 year, 2 months ago)[m
+[33m18362c0[m Making it clear that the assessment is primarily about OO ruby, not parsing and regexs [31m(Peter Bell, 1 year, 2 months ago)[m
+[33me88b615[m Reworked README to make the creating of a gem optional [31m(Peter Bell, 1 year, 2 months ago)[m
+[33mc5ed834[m video links [31m(AnnJohn, 1 year, 4 months ago)[m
+[33m68c81ee[m Update README.md [31m(AnnJohn, 1 year, 4 months ago)[m
+[33mcd47f00[m Direct outreach to instructor [31m(Peter Bell, 1 year, 4 months ago)[m
+[33m74cca2c[m Merge pull request #19 from Lukeghenco/patch-1 [31m(Peter Bell, 1 year, 4 months ago)[m
+[33m0fb6d63[m Adding domain requirements for cli assessment [31m(Luke Ghenco, 1 year, 4 months ago)[m
+[33meb70973[m Update README.md [31m(AnnJohn, 1 year, 4 months ago)[m
+[33mcf76680[m Merge pull request #18 from gj/patch-1 [31m(AnnJohn, 1 year, 5 months ago)[m
+[33m8357fb8[m removed dupe Learn link [31m(gabe, 1 year, 5 months ago)[m
+[33mfe32127[m Merge pull request #17 from learn-co-curriculum/spec-file [31m(Peter Bell, 1 year, 5 months ago)[m
+[33mdf950ee[m Removed spec example file and updated instryctions [31m(Peter Bell, 1 year, 5 months ago)[m
+[33me596e54[m First cut of spec file with instructions [31m(Peter Bell, 1 year, 5 months ago)[m
+[33m576e92e[m Merge pull request #15 from becky000/becky000-1467855447 [31m(AnnJohn, 1 year, 5 months ago)[m
+[33mf735f56[m Correct punctuation, correct typo in "Objected Oriented", remove redundancy with term "CLI interface" [31m(Rebecca Sherman, 1 year, 5 months ago)[m
+[33m3cb5066[m Merge pull request #14 from learn-co-curriculum/updated-assessment-proposal [31m(Joe Burgess, 1 year, 7 months ago)[m
+[33m7deeb86[m Replaced 'pairing session' with 'assessment' - it is and that's not too scary [31m(Peter Bell, 1 year, 8 months ago)[m
+[33mea27cc6[m Consistent language for session 'pairing session' [31m(Peter Bell, 1 year, 8 months ago)[m
+[33m1dc5a9f[m Make the 'extend the application and submit improved version' clearly post assessment [31m(Peter Bell, 1 year, 8 months ago)[m
+[33mad22528[m Reduce time for refactoring code in assessment [31m(Peter Bell, 1 year, 8 months ago)[m
+[33mbf62238[m Remove writing code against tests from this assessment [31m(Peter Bell, 1 year, 8 months ago)[m
+[33m112ecc1[m Increasing time for code walk through to 10-20 mins [31m(Peter Bell, 1 year, 8 months ago)[m
+[33macf221e[m Moved the 'write a README' to the project from the assessment so they do it first [31m(Peter Bell, 1 year, 8 months ago)[m
+[33md4d09e5[m Stronger suggestion about commit history and that we'll review in assessment [31m(Peter Bell, 1 year, 8 months ago)[m
+[33m7f596e3[m Suggesting the students take the time to clone, run and look through the two examples [31m(Peter Bell, 1 year, 8 months ago)[m
+[33m05bac46[m Merge pull request #13 from adamjonas/adamjonas-1458141883 [31m(Adam Jonas, 1 year, 9 months ago)[m
+[33mdfd7e34[m spacing above link to learn [31m(Adam Jonas, 1 year, 9 months ago)[m
+[33m7959492[m Add periods to readme instructions. [31m(Adam Jonas, 1 year, 9 months ago)[m
+[33mcfb7976[m closes #11 [31m(AnnJohn, 1 year, 10 months ago)[m
+[33mb351b31[m optimize learn link [processing skip] [31m(Adam Jonas, 1 year, 10 months ago)[m
+[33mdbc2b6e[m Merge pull request #10 from learn-co-curriculum/drewprice-patch-1 [31m(Drew Price, 1 year, 11 months ago)[m
+[33m1987904[m Update readme to trigger sync after repo name is changed [31m(Drew Price, 1 year, 11 months ago)[m
+[33maa12533[m Merge pull request #9 from drewprice/patch-1 [31m(Kate Travers, 1 year, 11 months ago)[m
+[33m088c3e1[m Update instructions per new assessment process [31m(Drew Price, 1 year, 11 months ago)[m
+[33m186a62d[m Merge pull request #8 from aviflombaum/aviflombaum-1452696850 [31m(Avi Flombaum, 1 year, 11 months ago)[m
+[33m00f09bc[m Add more examples and videos. [31m(Avi Flombaum, 1 year, 11 months ago)[m
+[33m607fde9[m Merge pull request #6 from kvignali/kvignali-1449155472 [31m(Kaitlin Vignali, 2 years ago)[m
+[33m7a78563[m updated email to assessments [31m(Kaitlin Vignali, 2 years ago)[m
+[33m875fe56[m add learn link [processing skip] [31m(Adam Jonas, 2 years ago)[m
+[33m4a20e3e[m Updating instructions for clarity [31m(Mat Balez, 2 years, 1 month ago)[m
+[33m2dc33b4[m add live_assessment key to .learn [31m(Logan Hasson, 2 years, 1 month ago)[m
+[33mac16f23[m updated readme [31m(aviflombaum, 2 years, 1 month ago)[m
+[33mb792b17[m updated submodule [31m(aviflombaum, 2 years, 1 month ago)[m
+[33m9a0b5fd[m Merge pull request #5 from learn-co-curriculum/wip-updates [31m(Joe Burgess, 2 years, 1 month ago)[m
+[33mb8e1087[m adding metadata [31m(Joe Burgess, 2 years, 1 month ago)[m
+[33m6ac2ed1[m fixing readme [31m(Joe Burgess, 2 years, 1 month ago)[m
+[33m62cf12a[m added note about submodule [31m(Danny-Sullivan, 2 years, 1 month ago)[m
+[33m2a52547[m added example copy [31m(Danny-Sullivan, 2 years, 1 month ago)[m
+[33m0c2540f[m Update README.md [31m(Danny Sullivan, 2 years, 1 month ago)[m
+[33m03b1a2a[m fleshed out readme, added resources and fixed numbering [31m(Danny-Sullivan, 2 years, 1 month ago)[m
+[33m2a2c6b9[m eamples [31m(aviflombaum, 2 years, 1 month ago)[m
+[33m45c38e6[m removed example [31m(aviflombaum, 2 years, 1 month ago)[m
+[33m8ee5e30[m initial [31m(aviflombaum, 2 years, 2 months ago)[m
