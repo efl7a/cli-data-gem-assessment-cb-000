@@ -1,0 +1,5 @@
+#!/user/bin/env ruby
+
+require "./lib/rezoning/cli/app"
+
+Rezoning::CLI.new.call
